@@ -33,7 +33,7 @@
 5. <em><font color="#993366
   ">Procrastinating</font></em>
   
-- My [![iggit](<img src="/assests/iggit.png" width="200" height="100">)](https://www.instagram.com/annoyniket).
+- My [![iggit](/assests/iggit.png)](https://www.instagram.com/annoyniket).
 - Some of my favourite shots 👇
 - [![Foggy Playground](/assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 - [![catgit](/assests/catgit.jpg)](https://www.instagram.com/p/CXnbJ46v9YX/)
