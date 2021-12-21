@@ -1,5 +1,6 @@
 # <font color="#267cb9">Aniket Dan</font>
-### Hi my name is Aniket, I know what a surprise!
+##### <font color="#33ccff"><p>Hi my name is Aniket, I know what a surprise!<br>
+These are my credentials 👇</font>
 
 ### <ins>Educational background</ins>
 1. <em><font color="#993366
