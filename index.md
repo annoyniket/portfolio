@@ -2,6 +2,8 @@
 ### Hi my name is Aniket, I know what a surprise!
 
 ### <ins>Educational background</ins>
+1. <em><font color="#993366
+  ">Data Science & Programming</font> from IIT Madras</em>
 
 
 
