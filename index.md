@@ -1,8 +1,8 @@
 <html>
-# </center>Aniket Dan</center>
-### </center>Data Science portfolio</center>
+Aniket Dan
+### Data Science portfolio
 
-### </center>Project 1 : Making portfolio</center>
+### Project 1 : Making portfolio
 - I made a portfolio with IIT M
 - My [instagram page](https://www.instagram.com/annoyniket).
 - ![Flower!](assests/image.jpg)
