@@ -1,6 +1,5 @@
-# <font color="#267cb9">Aniket Dan</font>
-##### <font color="#33ccff"><p>Hi my name is Aniket, I know what a surprise!<br>
-These are my credentials 👇</font>
+# <font color="#267cb9"><strong>Aniket Dan</strong></font>
+##### <font color="#33ccff">Hi my name is Aniket, I know what a surprise!</font>
 
 ### <ins><font color="#000066">Educational background</font></ins>
 1. <em><font color="#993366
@@ -11,7 +10,7 @@ These are my credentials 👇</font>
   ">Senior Secondary</font> from MDPS, Faridabad 2016-2018</em>
   
   
-  ### <ins><font color="#000066">Skills</font></ins>
+### <ins><font color="#000066">Skills</font></ins>
   
 
 
