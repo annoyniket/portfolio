@@ -1,4 +1,4 @@
-# <font color=#267cb9>Aniket Dan!</font>
+# <font color="#267cb9">Aniket Dan!</font>
 ### Hi my name is Aniket, I know what a surprise!
 
 ### Project 1 : Making portfolio
