@@ -3,8 +3,11 @@
 
 ### <ins>Educational background</ins>
 1. <em><font color="#993366
-  ">Data Science & Programming</font> from IIT Madras</em>
-
+  ">Data Science & Programming</font> from IIT Madras     2020-</em>
+2. <em><font color="#993366
+  ">Bsc (Prog) Life Science</font> from Swami Shraddhanand College 2018-2021</em>
+3. <em><font color="#993366
+  ">Senior Secondary</font> from MDPS, Faridabad 2016-2018</em>
 
 
 
