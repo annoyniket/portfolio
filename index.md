@@ -33,6 +33,16 @@
 5. <em><font color="#993366
   ">Procrastinating</font></em>
   
+  
+  ### <ins><font color="#000066">Experience</font></ins>
+1. <em><font color="#993366
+  ">Public Relations Head( Swaransh Music Society ) in college</font> 2020-2021</em>
+2. <em><font color="#993366
+  ">Choir Head at Swaransh Music Society college</font> 2019-2021</em>
+3. <em><font color="#993366
+  ">Fest management during College fest (Shraddha Tarang)</font> 2019</em>
+
+  
 - My [![iggit](/assests/iggit.jpg)](https://www.instagram.com/annoyniket).
 - Some of my favourite shots 👇
 - [![Foggy Playground](/assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
