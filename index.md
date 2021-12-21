@@ -1,6 +1,5 @@
 
-# Aniket Dan
-### Data Science portfolio
+### Hi my name is Aniket, I know what a surprise!
 
 ### Project 1 : Making portfolio
 - I made a portfolio with IIT M
