@@ -1,8 +1,14 @@
-# <html><font color="#267cb9">Aniket Dan</font><html>
+# <font color="#267cb9">Aniket Dan</font>
 ### Hi my name is Aniket, I know what a surprise!
 
-### Project 1 : Making portfolio
-- I made a portfolio with IIT M
+### <ins>Educational background</ins>
+
+
+
+
+
+
+
 - My [instagram page](https://www.instagram.com/annoyniket).
 - [![FoggyPlayground!](assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 
