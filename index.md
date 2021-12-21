@@ -1,5 +1,4 @@
-<html>
-   
+
 # Aniket Dan
 ### Data Science portfolio
 
@@ -7,7 +6,7 @@
 - I made a portfolio with IIT M
 - My [instagram page](https://www.instagram.com/annoyniket).
 - ![Flower!](assests/image.jpg)
-   
+<html>   
 <body style="background-color:powderblue;">
 
 </body>
