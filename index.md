@@ -4,7 +4,7 @@
 ### Project 1 : Making portfolio
 - I made a portfolio with IIT M
 - My [instagram page](https://www.instagram.com/annoyniket).
-- ![FoggyPlayground!](assests/Foggy playground (1).jpg)
+- [![FoggyPlayground!](assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 
 <html>  
 <head>
