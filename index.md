@@ -34,7 +34,7 @@
   ">Procrastinating</font></em>
   
   
-  ### <ins><font color="#000066">Experience</font></ins>
+### <ins><font color="#000066">Experience</font></ins>
 1. <em><font color="#993366
   ">Public Relations Head( Swaransh Music Society ) in college</font> 2020-2021</em>
 2. <em><font color="#993366
