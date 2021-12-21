@@ -35,7 +35,7 @@
   
 - My [instagram page](https://www.instagram.com/annoyniket).
 - Some of my favourite shots 👇
-- [![Foggy Playground](/assets/images/(assests/images/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
+- [![Foggy Playground!](/assets/images/(assests/images/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 
 <html>  
 <head>
