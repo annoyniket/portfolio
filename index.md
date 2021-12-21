@@ -20,16 +20,22 @@
 4. <em><font color="#993366
   ">Creative writing</font></em>
 
+
+### <ins><font color="#000066">Hobbies</font></ins>
+1. <em><font color="#993366
+  ">Photography</font></em>
+2. <em><font color="#993366
+  ">Singing</font></em>
+3. <em><font color="#993366
+  ">Cycling</font></em>
+4. <em><font color="#993366
+  ">Reading</font></em>
+5. <em><font color="#993366
+  ">Procrastinating</font></em>
   
-
-
-
-
-
-
 - My [instagram page](https://www.instagram.com/annoyniket).
 - Some of my favourite shots 👇
-- [![Foggy Playground](/assets/images/(assests/images/Foggy playground (1).jpg)(https://www.instagram.com/p/CJfeOhrHZxl/))
+- [![Foggy Playground](/assets/images/(assests/images/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/))
 
 <html>  
 <head>
