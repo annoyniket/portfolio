@@ -43,7 +43,7 @@
   ">Fest management during College fest (Shraddha Tarang)</font> 2019</em>
 
   
-- My [![iggit](/assests/iggit.jpg)](https://www.instagram.com/annoyniket).
+- My [![iggit](/assests/iggit.jpg)](https://www.instagram.com/annoyniket)  [![ldgit](/assests/ldgit.jpg)](https://www.linkedin.com/in/aniket-dan-0200041bb/)
 - Some of my favourite shots 👇
 - [![Foggy Playground](/assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 - [![catgit](/assests/catgit.jpg)](https://www.instagram.com/p/CXnbJ46v9YX/)
