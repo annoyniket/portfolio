@@ -1,5 +1,6 @@
-# <font color="#267cb9">Aniket Dan</font> 
+# <font color="#267cb9">Aniket Dan</font>
 ##### <font color="#33ccff">Hi my name is Aniket, I know what a surprise!</font>
+![megit!](/assests/megit.jpg)
 
 ### <ins><font color="#000066">Educational background</font></ins>
 1. <em><font color="#993366
