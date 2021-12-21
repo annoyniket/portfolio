@@ -10,7 +10,7 @@
 <head>
 <style>
 body {
-  background-image: url(https://i.redd.it/njegi3gd9nc61.jpg);
+  background-image: url(https://maxcdn.icons8.com/app/uploads/2018/08/sunrise-photo.jpg);
 );
   background-repeat: no-repeat;
 }
