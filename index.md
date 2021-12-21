@@ -11,6 +11,15 @@
   
   
 ### <ins><font color="#000066">Skills</font></ins>
+1. <em><font color="#993366
+  ">Communication</font></em>
+2. <em><font color="#993366
+  ">Adobe lightroom</font></em>
+3. <em><font color="#993366
+  ">Adobe Photoshop</font></em>
+4. <em><font color="#993366
+  ">Creative writing</font></em>
+
   
 
 
@@ -19,7 +28,7 @@
 
 
 - My [instagram page](https://www.instagram.com/annoyniket).
-- [![FoggyPlayground!](assests/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
+- [![FoggyPlayground!](assests/images/Foggy playground (1).jpg)](https://www.instagram.com/p/CJfeOhrHZxl/)
 
 <html>  
 <head>
