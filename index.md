@@ -1,6 +1,6 @@
 # <font color="#267cb9">Aniket Dan</font>
 ##### <font color="#33ccff">Hi my name is Aniket, I know what a surprise!</font>
-![megit!](/assests/megit.jpg=255*255)
+<img src="/assests/megit.jpg" width="255" height="255" />
 
 ### <ins><font color="#000066">Educational background</font></ins>
 1. <em><font color="#993366
@@ -54,7 +54,7 @@
 <head>
 <style>
 body {
-  background-image: url(https://w.wallhaven.cc/full/6k/wallhaven-6kozzl.png);
+  background-image: url(https://w.wallhaven.cc/full/6q/wallhaven-6q3grq.jpg);
 );
   background-repeat: no-repeat;
 }
