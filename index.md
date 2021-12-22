@@ -54,7 +54,7 @@
 <head>
 <style>
 body {
-  background-image: url(https://w.wallhaven.cc/full/6q/wallhaven-6q3grq.jpg);
+  background-image: url(https://w.wallhaven.cc/full/g8/wallhaven-g8p3zq.png);
 );
   background-repeat: no-repeat;
 }
