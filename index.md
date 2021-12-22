@@ -54,7 +54,7 @@
 <head>
 <style>
 body {
-  background-image: url(https://w.wallhaven.cc/full/g8/wallhaven-g8p3zq.png);
+  background-image: url(https://c.wallhere.com/photos/cf/dd/gradient_4K-1842465.jpg!d);
 );
   background-repeat: no-repeat;
 }
